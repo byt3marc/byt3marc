@@ -3,36 +3,19 @@
 
 ###
 
-<p align="left">Hola, mi nombre es Marcelo y soy estudiante de la carrera de Ciencias de la Computación en la universidad UTEC (Universidad de Ingeniería y Tecnología). Desde pequeño siempre me a gustado lo relacionado a la programación y sus distintos ámbitos, creando así proyectos pequeños que buscaban retarme y poder así mejorar como Persona, asi que aca me verás dejar proyectos e ideas que se me van formando de diferentes ámbitos, a continuación dejaré más información sobre mi.</p>
+<p align="left">Hola, mi nombre es Marcelo y soy estudiante de la carrera de Ciberseguridad en la universidad UTEC (Universidad de Ingeniería y Tecnología). Desde pequeño siempre me a gustado lo relacionado a la programación y sus distintos ámbitos, creando así proyectos pequeños que buscaban retarme y poder así mejorar como Persona, asi que aca me verás dejar proyectos e ideas que se me van formando de diferentes ámbitos, a continuación dejaré más información sobre mi. <br> <br>Tengo varios proyectos, desde pag web para calculadoras, launchers de minecraft, sistema de lectura de imagenes con python, etc. (planeo hacer muchos mas, ademas de que me faltan subir varios!)</p>
 
 ###
 
-<h2 align="left">Mas Info y redes:</h2>
+<h2 align="left">Mas Info:</h2>
 
 ###
 
-<p align="left">✨ Proy. Creados: 01<br>🎂 Cumpleaños: 04 de Octubre<br>🎯 Objetivo: Hacer 10 proyectos nuevos<br>🎲 Dato curioso: Me gusta jugar basquet e ir al gimnasio</p>
+<p align="left">✨ Ultimo proyecto: <a href="https://modrinth.com/plugin/x10k-management-core"> x10k Management Core </a> <br>🎂 Cumpleaños: 04 de Octubre<br>📧 Contacto (mail): <a href="mailto:marcelo.revilla@utec.edu.pe">(Click Aqui!)</a></p>
 
 ###
 
-<div align="left">
-  <a href="https://x.com/zkanek12" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/zkannek12/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.twitch.tv/zkannek" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
-  </a>
-  <a href="mailto:marcelo.revilla@utec.edu.pe" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<h2 align="left">Lenguajes y programas:</h2>
+<h2 align="left">Lenguajes con conocimientos: </h2>
 
 ###
 
@@ -57,6 +40,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" width="40" alt="kotlin logo"  />
 </div>
+
+### 
+<h2 align="left">Certificaciones: </h2>
+
+<div align="left">
+  <a href="https://www.credly.com/badges/44c049e4-4f28-487f-80cb-aa01da7831e7/public_url" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="110" height="110" alt="gmail logo"  />
+  </a>
+</div>
+
 
 ###
 
