@@ -70,7 +70,7 @@ Cybersecurity student at UTEC. Transitioning from software development to the wo
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (my username doesn't work :sob:)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byt3marc&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byt3marc&layout=compact&theme=tokyonight&hide_border=true)
