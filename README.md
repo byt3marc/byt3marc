@@ -1,67 +1,78 @@
-<br clear="both">
-<h1 align="left">Quien soy? 🤔</h1>
+# 👋 Hola, soy ByteMarC
 
-###
+**Estudiante de Ciberseguridad | Lima, Perú 🇵🇪**
 
-<p align="left">Hola, mi nombre es Marcelo y soy estudiante de la carrera de Ciberseguridad en la universidad UTEC (Universidad de Ingeniería y Tecnología). Desde pequeño siempre me a gustado lo relacionado a la programación y sus distintos ámbitos, creando así proyectos pequeños que buscaban retarme y poder así mejorar como Persona, asi que aca me verás dejar proyectos e ideas que se me van formando de diferentes ámbitos, a continuación dejaré más información sobre mi. <br> <br>Tengo varios proyectos, desde pag web para calculadoras, launchers de minecraft, sistema de lectura de imagenes con python, etc. (planeo hacer muchos mas, ademas de que me faltan subir varios!)</p>
+---
 
-###
+## 🎯 Sobre mí
 
-<h2 align="left">Mas Info:</h2>
+Estudiante de la carrera de Ciberseguridad en UTEC. En tránsito del desarrollo de software al mundo de la seguridad informática. Apasionado por entender cómo funcionan los sistemas y cómo protegerlos.
 
-###
+---
 
-<p align="left">✨ Ultimo proyecto: <a href="https://modrinth.com/plugin/x10k-management-core"> x10k Management Core </a> <br>🎂 Cumpleaños: 04 de Octubre<br>📧 Contacto (mail): <a href="mailto:marcelo.revilla@utec.edu.pe">(Click Aqui!)</a></p>
+## 🛡️ Actualmente aprendiendo
 
-###
+- Redes y protocolos (TCP/IP, DNS, HTTP)
+- Kali Linux y herramientas de pentesting
+- Análisis de vulnerabilidades (OWASP Top 10)
+- CTFs (Capture The Flag)
+- Python para scripting y automatización de seguridad
+- Wireshark, Nmap, Burp Suite
 
-<h2 align="left">Lenguajes con conocimientos: </h2>
+---
 
-###
+## 💻 Stack Técnico
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" width="40" alt="webstorm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" width="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" width="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" width="40" alt="kotlin logo"  />
-</div>
+**Lenguajes:**
 
-### 
-<h2 align="left">Certificaciones: </h2>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Batchfile](https://img.shields.io/badge/Batchfile-C1F12E?style=for-the-badge&logo=windowsterminal&logoColor=black)
 
-<div align="left">
-  <a href="https://www.credly.com/badges/44c049e4-4f28-487f-80cb-aa01da7831e7/public_url" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="110" height="110" alt="gmail logo"  />
-  </a>
-</div>
+**Herramientas de Ciberseguridad:**
 
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-2E3440?style=for-the-badge&logo=nmap&logoColor=white)
 
-###
+**Herramientas:**
 
-<h2 align="left">Gráfica de Actividad:</h2>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-###
+---
 
+## 🚀 Proyectos de Ciberseguridad
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marc-8303/Marc-8303/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marc-8303/Marc-8303/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Marc-8303/Marc-8303/output/github-snake.svg" />
-</picture>
+> *Próximamente — en construcción...*
 
-###
+---
+
+## 📂 Proyectos Anteriores (Desarrollo)
+
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| [brossard_plugin](https://github.com/byt3marc/brossard_plugin) | Plugin de Minecraft | Java |
+| [MRC-Launcher](https://github.com/byt3marc/MRC-Launcher) | Launcher de Minecraft | Python |
+| [ajedrez-mediocre](https://github.com/byt3marc/ajedrez-mediocre) | Juego de ajedrez | C++ |
+| [Emulator-GBA](https://github.com/byt3marc/Emulator-GBA) | Emulador GBA web | HTML/CSS |
+| [Gimnasio-Utec](https://github.com/byt3marc/Gimnasio-Utec) | Sistema de gimnasio | TypeScript |
+| [MGL](https://github.com/byt3marc/MGL) | Proyecto web | CSS/HTML/JS |
+| [Lectura-de-numeros](https://github.com/byt3marc/Lectura-de-numeros) | Lectura de números | Python |
+| [Proyecto_web](https://github.com/byt3marc/Proyecto_web) | Proyecto web | HTML/CSS/JS |
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byt3marc&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byt3marc&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+*Desde Lima, Perú 🇵🇪*
