@@ -1,10 +1,10 @@
-# 👋 Hi, I'm ByteMarC
+# Hi, I'm ByteMarC
 
 **Cybersecurity Student | Lima, Peru 🇵🇪**
 
 ---
 
-## 🎯 About me
+## About me
 
 Cybersecurity student at UTEC. Transitioning from software development to the world of information security. Passionate about understanding how systems work and how to protect them. 
 
@@ -12,7 +12,7 @@ Cybersecurity student at UTEC. Transitioning from software development to the wo
 
 ---
 
-## 🛡️ Currently learning
+## Currently learning
 
 - Networks and protocols (TCP/IP, DNS, HTTP)
 - Kali Linux and pentesting tools
@@ -23,7 +23,7 @@ Cybersecurity student at UTEC. Transitioning from software development to the wo
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages:**
 
@@ -49,13 +49,13 @@ Cybersecurity student at UTEC. Transitioning from software development to the wo
 
 ---
 
-## 🚀 Cybersecurity Projects
+## Cybersecurity Projects
 
 > *Coming soon — under construction...*
 
 ---
 
-## 📂 Previous Projects (Development)
+## Previous Projects (Development)
 
 | Project | Description | Technologies |
 |----------|-------------|-------------|
@@ -70,14 +70,14 @@ Cybersecurity student at UTEC. Transitioning from software development to the wo
 
 ---
 
-## 📊 GitHub Stats (my username doesn't work :sob:)
+## GitHub Stats (my username doesn't work :sob:)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byt3marc&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byt3marc&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📫 Contact
+## Contact
 
 - 📧 Email: marcelo.revilla@utec.edu.pe
 
