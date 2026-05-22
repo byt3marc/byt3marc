@@ -59,11 +59,11 @@ Cybersecurity student at UTEC. Transitioning from software development to the wo
 
 | Project | Description | Technologies |
 |----------|-------------|-------------|
-| [brossard_plugin] | Minecraft Plugin | Java |
+| [brossard_plugin](https://guthib.com/) | Minecraft Plugin | Java |
 | [MRC-Launcher](https://github.com/byt3marc/MRC-Launcher) | Minecraft Launcher | Python |
 | [ajedrez-mediocre](https://github.com/byt3marc/ajedrez-mediocre) | Chess game | C++ |
 | [Emulator-GBA](https://github.com/byt3marc/Emulator-GBA) | Web GBA Emulator | HTML/CSS |
-| [Gimnasio-Utec] | Gym system | TypeScript |
+| [Gimnasio-Utec](https://guthib.com/) | Gym system | TypeScript |
 | [MGL](https://github.com/byt3marc/MGL) | Web project | CSS/HTML/JS |
 | [Lectura-de-numeros](https://github.com/byt3marc/Lectura-de-numeros) | Number reading | Python |
 | [Proyecto_web](https://github.com/byt3marc/Proyecto_web) | Web project | HTML/CSS/JS |
