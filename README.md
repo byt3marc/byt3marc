@@ -1,19 +1,18 @@
-<!-- ===================== HEADER ===================== -->
+
 <div align="center">
 
-<!-- Animated Matrix header: upload assets/matrix-header.svg to this repo -->
-<img src="./assets/header.svg" alt="ByteMarC — Matrix header" width="100%"/>
+<img src="./assets/matrix-header.svg" alt="ByteMarC — Matrix header" width="100%"/>
 
 <a href="https://github.com/byt3marc">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF9F&center=true&vCenter=true&width=520&lines=%24+whoami;Cybersecurity+student+%40+UTEC;From+dev+to+infosec+%F0%9F%94%90;Breaking+things+to+learn+how+to+protect+them" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3FA9FF&center=true&vCenter=true&width=520&lines=%24+whoami;Cybersecurity+student+%40+UTEC;From+dev+to+infosec+%F0%9F%94%90;Breaking+things+to+learn+how+to+protect+them" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Location-Lima%2C%20Peru%20🇵🇪-00ff9f?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/University-UTEC-00ff9f?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Languages-ES%20%7C%20EN-00ff9f?style=flat-square&labelColor=0d1117"/>
-<img src="https://komarev.com/ghpvc/?username=byt3marc&style=flat-square&color=00ff9f&label=Profile+views"/>
+<img src="https://img.shields.io/badge/Location-Lima%2C%20Peru%20🇵🇪-3fa9ff?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/University-UTEC-3fa9ff?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Languages-ES%20%7C%20EN-3fa9ff?style=flat-square&labelColor=0d1117"/>
+<img src="https://komarev.com/ghpvc/?username=byt3marc&style=flat-square&color=3fa9ff&label=Profile+views"/>
 
 </div>
 
@@ -48,8 +47,9 @@
 <td valign="top" width="50%">
 
 **🛠️ Offensive / Hands-on**
-- Kali Linux & pentesting tools
-- Wireshark, Nmap, Burp Suite
+- Getting comfortable with Kali Linux
+- First steps with Burp Suite
+- Wireshark & Nmap
 - CTFs (Capture The Flag) 🚩
 
 </td>
@@ -75,10 +75,13 @@
 
 **Cybersecurity**
 
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nmap-2E3440?style=for-the-badge&logo=nmap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+
+**🌱 Still learning**
+
+<img src="https://img.shields.io/badge/Kali_Linux-learning-3fa9ff?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=557C94"/>
+<img src="https://img.shields.io/badge/Burp_Suite-learning-3fa9ff?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=FF6633"/>
 
 **Tools**
 
@@ -130,17 +133,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=byt3marc&theme=tokyonight&hide_border=true&ring=00ff9f&fire=00ff9f&currStreakLabel=00ff9f" alt="GitHub Streak"/>
-
-<!--
-  The public github-readme-stats instance (github-readme-stats.vercel.app) was paused,
-  that's why your stats card wasn't loading. To bring it back, deploy your own instance:
-  https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
-  Then replace YOUR-INSTANCE below and uncomment these two lines:
-
-<img height="165" src="https://YOUR-INSTANCE.vercel.app/api?username=byt3marc&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ff9f&icon_color=00ff9f"/>
-<img height="165" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=byt3marc&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff9f"/>
--->
+<img src="https://streak-stats.demolab.com?user=byt3marc&theme=tokyonight&hide_border=true&ring=3fa9ff&fire=3fa9ff&currStreakLabel=3fa9ff" alt="GitHub Streak"/>
 
 </div>
 
@@ -151,10 +144,10 @@
 <div align="center">
 
 <a href="mailto:marcelo.revilla@utec.edu.pe">
-  <img src="https://img.shields.io/badge/Email-marcelo.revilla%40utec.edu.pe-00ff9f?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=00ff9f&color=0d1117"/>
+  <img src="https://img.shields.io/badge/Email-marcelo.revilla%40utec.edu.pe-3fa9ff?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=3fa9ff&color=0d1117"/>
 </a>
 <a href="https://github.com/byt3marc">
-  <img src="https://img.shields.io/badge/GitHub-byt3marc-00ff9f?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=00ff9f&color=0d1117"/>
+  <img src="https://img.shields.io/badge/GitHub-byt3marc-3fa9ff?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=3fa9ff&color=0d1117"/>
 </a>
 
 </div>
@@ -162,6 +155,6 @@
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=00FF9F&center=true&vCenter=true&width=420&lines=%24+exit+%23+From+Lima%2C+Peru+%F0%9F%87%B5%F0%9F%87%AA" alt="Footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=3FA9FF&center=true&vCenter=true&width=420&lines=%24+exit+%23+From+Lima%2C+Peru+%F0%9F%87%B5%F0%9F%87%AA" alt="Footer"/>
 
 </div>
