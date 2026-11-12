@@ -1,160 +1,71 @@
+<!--
+  The panels are generated SVGs, one set per GitHub theme (assets/dark and
+  assets/light); <picture> shows the one that matches the reader's theme.
+  To change their text or colors, edit scripts/build_assets.py (or
+  scripts/ascii_art.txt) and run:
+      python scripts/build_assets.py
+  To see this file rendered before pushing:
+      python scripts/preview.py
+-->
 
-<div align="center">
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/card.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/light/card.svg"/><img src="./assets/dark/card.svg" width="100%" alt="marce@byt3marc. OS: Windows 11, Kali Linux, Android. Host: UTEC, Lima, Perú. Kernel: cybersecurity student. IDE: VS Code. Languages: Python, TypeScript, JavaScript, C++, Java, HTML, CSS; Spanish and English. Learning: TCP/IP, DNS, HTTP, OWASP Top 10, Kali, Burp Suite, Wireshark, Nmap, CTFs, Python automation. Projects: PocketAnt, MRC-Launcher, BM-MCL, Emulator-GBA, MGL. Email: marcelo.revilla@utec.edu.pe."/></picture></p>
 
-<img src="./assets/matrix-header.svg" alt="ByteMarC — Matrix header" width="100%"/>
-
-<a href="https://github.com/byt3marc">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3FA9FF&center=true&vCenter=true&width=520&lines=%24+whoami;Cybersecurity+student+%40+UTEC;From+dev+to+infosec+%F0%9F%94%90;Breaking+things+to+learn+how+to+protect+them" alt="Typing SVG" />
-</a>
+I'm **Marce**, a cybersecurity student at **UTEC** in Lima. I got here by building things first: a Minecraft launcher, a GBA emulator page, an expense tracker that runs an AI model on the phone. Now I'm learning how software like that breaks, so I can protect it. Write-ups and CTF solutions will land here as I finish them.
 
 <br/>
 
-<img src="https://img.shields.io/badge/Location-Lima%2C%20Peru%20🇵🇪-3fa9ff?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/University-UTEC-3fa9ff?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Languages-ES%20%7C%20EN-3fa9ff?style=flat-square&labelColor=0d1117"/>
-<img src="https://komarev.com/ghpvc/?username=byt3marc&style=flat-square&color=3fa9ff&label=Profile+views"/>
+<a name="projects"></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/s-projects.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/light/s-projects.svg"/><img src="./assets/dark/s-projects.svg" width="100%" alt="Projects"/></picture>
 
-</div>
+<a href="https://github.com/byt3marc/PocketAnt"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/p-pocketant.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/light/p-pocketant.svg"/><img src="./assets/dark/p-pocketant.svg" width="100%" alt="PocketAnt. Expense tracker for the small daily spends (gastos hormiga): charts, recurring charges, on-device AI. TypeScript, React Native, Expo. Preparing its Google Play release."/></picture></a>
 
----
+<a href="https://github.com/byt3marc/BM-MCL"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/p-bm-mcl.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/light/p-bm-mcl.svg"/><img src="./assets/dark/p-bm-mcl.svg" width="100%" alt="BM-MCL. Ground-up rewrite of MRC-Launcher with a QML interface, a testable core, and Microsoft or offline accounts. Python, PySide6, QML. In progress."/></picture></a>
 
-## 🧑‍💻 About me
+<a href="https://github.com/byt3marc/MRC-Launcher"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/p-mrc-launcher.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/light/p-mrc-launcher.svg"/><img src="./assets/dark/p-mrc-launcher.svg" width="100%" alt="MRC-Launcher. A lightweight Minecraft launcher: pick a version, manage your skin and name, play. Python, CustomTkinter."/></picture></a>
 
-```bash
-┌──(byt3marc㉿utec)-[~]
-└─$ cat about_me.txt
-```
+<a href="https://github.com/byt3marc/Emulator-GBA"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/p-emulator-gba.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/light/p-emulator-gba.svg"/><img src="./assets/dark/p-emulator-gba.svg" width="100%" alt="Emulator-GBA. A web page that plays Game Boy Advance ROMs in the browser. Live on GitHub Pages."/></picture></a>
 
-- 🎓 Cybersecurity student at **UTEC**
-- 🔄 Transitioning from **software development** to **information security**
-- 🧠 Passionate about understanding how systems work — and how to protect them
-- 🌎 Native Spanish speaker, also fluent in English
+**Try them in the browser:** [Emulator-GBA](https://byt3marc.github.io/Emulator-GBA/) · [MGL mini-games](https://byt3marc.github.io/MGL/)
 
----
+### Everything else
 
-## 📚 Currently learning
+| Project | What it is | Stack |
+|:--|:--|:--|
+| [MGL](https://github.com/byt3marc/MGL) | A static site of browser mini-games. Pick one and play. | `HTML` `CSS` `JS` |
+| [ajedrez-mediocre](https://github.com/byt3marc/ajedrez-mediocre) | Chess in C++ with a class per piece, built for a UTEC course. | `C++` |
+| [Lectura-de-numeros](https://github.com/byt3marc/Lectura-de-numeros) | Reads a number and writes it out in words. | `Python` |
+| [Calculadora](https://github.com/byt3marc/Calculadora) | A calculator, and my first weekly project. Built to practise styling. | `HTML` `CSS` `JS` |
+| [skills](https://github.com/byt3marc/skills) | Agent skills I wrote for myself, starting with password hygiene. | `Markdown` |
+| brossard_plugin <kbd>private</kbd> | Minecraft server plugin. | `Java` |
+| img-to-3d <kbd>private</kbd> | Turning images into 3D models. | `Python` |
+| Proyecto_web <kbd>private</kbd> | Web project. | `CSS` |
 
-<table>
-<tr>
-<td valign="top" width="50%">
+Some repos stay private: they were paid work, or I don't consider them finished yet.
 
-**🌐 Fundamentals**
-- Networks & protocols (TCP/IP, DNS, HTTP)
-- Vulnerability analysis (OWASP Top 10)
-- Python for scripting & security automation
+<br/>
 
-</td>
-<td valign="top" width="50%">
+<a name="certificates"></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/s-certificates.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/light/s-certificates.svg"/><img src="./assets/dark/s-certificates.svg" width="100%" alt="Certificates"/></picture>
 
-**🛠️ Offensive / Hands-on**
-- Getting comfortable with Kali Linux
-- First steps with Burp Suite
-- Wireshark & Nmap
-- CTFs (Capture The Flag) 🚩
+<!--
+  HOW TO ADD A CERTIFICATE
+  Copy a row and fill it in. Newest first. Save the badge image in
+  assets/certs/ (about 160px wide is plenty). If there is no public
+  verification link, write a dash in the last column.
 
-</td>
-</tr>
-</table>
+  | <img src="./assets/certs/badge.png" width="56" alt=""/> | Certificate name | Issuer | 2026-11 | [verify](https://link-to-credential) |
+-->
 
----
+| | Certificate | Issued by | Date | Credential |
+|:-:|:--|:--|:--|:--|
+| <img src="./assets/certs/networking-basics.png" width="56" alt=""/> | **Networking Basics** | Cisco | 2026-07 | [verify](https://www.credly.com/badges/39b5e326-4dcb-4af5-9a68-3d57b740f2f6/public_url) |
+| <img src="./assets/certs/introduction-to-cybersecurity.png" width="56" alt=""/> | **Introduction to Cybersecurity** | Cisco | 2026-03 | [verify](https://www.credly.com/badges/44c049e4-4f28-487f-80cb-aa01da7831e7/public_url) |
 
-## 🧰 Tech Stack
+<br/>
 
-<div align="center">
+<a name="contact"></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/s-contact.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/light/s-contact.svg"/><img src="./assets/dark/s-contact.svg" width="100%" alt="Contact"/></picture>
 
-**Languages**
+Email is the fastest way to reach me: **[marcelo.revilla@utec.edu.pe](mailto:marcelo.revilla@utec.edu.pe)**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Batchfile-C1F12E?style=for-the-badge&logo=windowsterminal&logoColor=black"/>
-
-**Cybersecurity**
-
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-2E3440?style=for-the-badge&logo=nmap&logoColor=white"/>
-
-**🌱 Still learning**
-
-<img src="https://img.shields.io/badge/Kali_Linux-learning-3fa9ff?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=557C94"/>
-<img src="https://img.shields.io/badge/Burp_Suite-learning-3fa9ff?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=FF6633"/>
-
-**Tools**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-</div>
-
----
-
-## 🔐 Cybersecurity Projects
-
-> 🚧 *Coming soon — under construction...*
->
-> Write-ups, CTF solutions and security tools will land here.
-
----
-
-## 💾 Development Projects
-
-### ⭐ Featured
-
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| 🚀 [**MRC-Launcher**](https://github.com/byt3marc/MRC-Launcher) | Lightweight & simple Minecraft launcher | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| 🎮 [**Emulator-GBA**](https://github.com/byt3marc/Emulator-GBA) | Play GBA ROMs straight from the browser | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| 🐜 [**PocketAnt**](https://github.com/byt3marc/PocketAnt) | <!-- edit description --> TypeScript project | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
-| ⛏️ [**BM-MCL**](https://github.com/byt3marc/BM-MCL) | <!-- edit description --> Python project | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-
-### 📂 More projects
-
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| ♟️ [ajedrez-mediocre](https://github.com/byt3marc/ajedrez-mediocre) | Chess game | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
-| 🔢 [Lectura-de-numeros](https://github.com/byt3marc/Lectura-de-numeros) | Number-to-words reader | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| 🧮 [Calculadora](https://github.com/byt3marc/Calculadora) | Calculator to experiment with styling | ![HTML](https://img.shields.io/badge/-HTML/CSS/JS-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| 🌐 [MGL](https://github.com/byt3marc/MGL) | Web project | ![CSS](https://img.shields.io/badge/-HTML/CSS/JS-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| 🧩 [skills](https://github.com/byt3marc/skills) | <!-- edit description --> Skills collection | ![Misc](https://img.shields.io/badge/-Misc-2E3440?style=flat-square) |
-| 🔒 brossard_plugin | Minecraft server plugin *(private)* | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| 🔒 Gimnasio-Utec | Gym management system *(private)* | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
-| 🔒 Proyecto_web | Web project *(private)* | ![CSS](https://img.shields.io/badge/-HTML/CSS/JS-1572B6?style=flat-square&logo=css3&logoColor=white) |
-
-> 🔒 *Some of my projects are private — either they were paid work, or I don't consider them finished (yet).*
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=byt3marc&theme=tokyonight&hide_border=true&ring=3fa9ff&fire=3fa9ff&currStreakLabel=3fa9ff" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 📫 Contact
-
-<div align="center">
-
-<a href="mailto:marcelo.revilla@utec.edu.pe">
-  <img src="https://img.shields.io/badge/Email-marcelo.revilla%40utec.edu.pe-3fa9ff?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=3fa9ff&color=0d1117"/>
-</a>
-<a href="https://github.com/byt3marc">
-  <img src="https://img.shields.io/badge/GitHub-byt3marc-3fa9ff?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=3fa9ff&color=0d1117"/>
-</a>
-
-</div>
-
-<!-- ===================== FOOTER ===================== -->
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=3FA9FF&center=true&vCenter=true&width=420&lines=%24+exit+%23+From+Lima%2C+Peru+%F0%9F%87%B5%F0%9F%87%AA" alt="Footer"/>
-
-</div>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/footer.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/light/footer.svg"/><img src="./assets/dark/footer.svg" width="100%" alt="marce@byt3marc:~$ exit"/></picture></p>

@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="128" viewBox="0 0 760 128" role="img">
+<title>BM-MCL: Ground-up rewrite of MRC-Launcher: a QML interface, a testable core, and Microsoft or offline accounts.</title>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono","DejaVu Sans Mono",monospace}
+.b{font-weight:700}
+@keyframes blink{0%,49%{fill-opacity:1}50%,100%{fill-opacity:0}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+.cur{animation:blink 1.1s step-end infinite}
+.pulse{animation:pulse 2.2s ease-in-out infinite}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+@keyframes cell{0%{opacity:0}3%,82%{opacity:1}88%,100%{opacity:0}}.c{animation:cell 7s linear infinite backwards}</style>
+<rect x=".5" y=".5" width="759" height="127" rx="12" fill="none" stroke="#0d1117"/>
+<defs><pattern id="m" x="24" y="24" width="10" height="10" patternUnits="userSpaceOnUse"><rect x="1" y="1" width="8" height="8" rx="1.5" fill="#dbe7f3"/></pattern></defs>
+<rect x="16.5" y="16.5" width="95" height="95" rx="8" fill="none" stroke="#0d1117"/>
+<rect x="24" y="24" width="80" height="80" fill="url(#m)"/>
+<rect class="c" style="animation-delay:0.00s" x="25" y="85" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:0.05s" x="25" y="95" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:0.10s" x="35" y="85" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:0.15s" x="35" y="95" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:0.20s" x="45" y="85" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:0.25s" x="45" y="95" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:0.30s" x="55" y="85" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:0.35s" x="55" y="95" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:0.40s" x="65" y="85" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:0.45s" x="65" y="95" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:0.50s" x="75" y="85" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:0.55s" x="75" y="95" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:0.60s" x="85" y="85" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:0.65s" x="85" y="95" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:0.70s" x="95" y="85" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:0.75s" x="95" y="95" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:0.80s" x="25" y="55" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:0.85s" x="25" y="65" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:0.90s" x="35" y="55" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:0.95s" x="35" y="65" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:1.00s" x="45" y="55" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:1.05s" x="45" y="65" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:1.10s" x="55" y="55" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:1.15s" x="55" y="65" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:1.20s" x="65" y="55" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:1.25s" x="65" y="65" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:1.30s" x="75" y="55" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:1.35s" x="75" y="65" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:1.40s" x="85" y="55" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:1.45s" x="85" y="65" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:1.50s" x="95" y="55" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:1.55s" x="95" y="65" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:1.60s" x="25" y="25" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:1.65s" x="25" y="35" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:1.70s" x="35" y="25" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:1.75s" x="35" y="35" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:1.80s" x="45" y="25" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:1.85s" x="45" y="35" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:1.90s" x="55" y="25" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:1.95s" x="55" y="35" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:2.00s" x="65" y="25" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:2.05s" x="65" y="35" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:2.10s" x="75" y="25" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:2.15s" x="75" y="35" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:2.20s" x="85" y="25" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:2.25s" x="85" y="35" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:2.30s" x="95" y="25" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<rect class="c" style="animation-delay:2.35s" x="95" y="35" width="8" height="8" rx="1.5" fill="#1a73c7"/>
+<text class="b" x="132.0" y="43" font-size="20" fill="#1a73c7" textLength="72.0" lengthAdjust="spacing">BM-MCL</text>
+<path d="M216.0 39H563.8" stroke="#9fb6cd" stroke-width="1.6" stroke-linecap="round" stroke-dasharray=".1 7.7"/>
+<text x="573.8" y="43" font-size="13" fill="#0d1117" textLength="148.2" lengthAdjust="spacing">rewrite in progress</text>
+<circle class="pulse" cx="735" cy="38.5" r="4" fill="#1a73c7"/>
+<text x="132" y="70" font-size="15" fill="#0d1117">Ground-up rewrite of MRC-Launcher: a QML interface, a testable</text>
+<text x="132" y="91" font-size="15" fill="#0d1117">core, and Microsoft or offline accounts.</text>
+<text x="132" y="114" font-size="13" fill="#59636e">python · pyside6 · qml</text>
+</svg>
